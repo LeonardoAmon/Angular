@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Curso Web Moderno",
+      "price": 60
+    },
+    {
+      "id": 2,
+      "name": "Curso TypeScript",
+      "price": 90.5
+    },
+    {
+      "id": 3,
+      "name": "Curso MySQL",
+      "price": 125.3
+    },
+    {
+      "name": "Curso JavaScript(React, Vue)",
+      "price": 245.6,
+      "id": 4
+    },
+    {
+      "name": "Novo produto  2",
+      "price": "76.43",
+      "id": 5
+    }
+  ]
+}
